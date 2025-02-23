@@ -1,0 +1,35 @@
+{
+  "name": "pinyin-extract",
+  "version": "1.0.0",
+  "description": "utility for extracting pinyin from a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRobertLing/pinyin-extract.git"
+  },
+  "keywords": [
+    "pinyin",
+    "extract",
+    "parser",
+    "filter",
+    "chinese",
+    "text-processing",
+    "tones",
+    "conversion"
+  ],
+  "author": "Robert Ling",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheRobertLing/pinyin-extract/issues"
+  },
+  "homepage": "https://github.com/TheRobertLing/pinyin-extract#readme",
+  "devDependencies": {
+    "@jest/globals": "^29.7.0",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.6",
+    "typescript": "^5.7.3"
+  }
+}
